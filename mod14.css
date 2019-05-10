@@ -73,47 +73,7 @@ width: 430px;
     margin:0 auto; 
     background-repeat:no-repeat;}
 
-
-/* RESUME */
-.resume-header  {
-text-align: center;
-padding: 15px;
-}
-
-li { padding: 5px;}
-
-
-.education { 
-padding: 30px;
+.odphoto { 
 width: 400px;
-float: left;
 }
-
-.PDF { 
-float: right;
-width: 400px;
-padding: 27px;
-}
-
-.relevant { 
-float: left;
-width: 400px;
-padding: 30px;
-}
-
-.competencies { 
-float: right;
-width: 400px;
-padding: 30px;
-}
-
-.experience { 
-float: left;
-padding: 30px;
-}
-
-
-
-/* Portfolio */ 
-
 
